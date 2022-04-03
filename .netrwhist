@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/di3/Proyectos/ADB/ADB_tests'
+let g:netrw_dirhist_1='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components/footer'
+let g:netrw_dirhist_0='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components'
+let g:netrw_dirhist_9='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components/header'
+let g:netrw_dirhist_8='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components'
+let g:netrw_dirhist_7='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components/footer'
+let g:netrw_dirhist_6='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components'
+let g:netrw_dirhist_5='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components/about'
+let g:netrw_dirhist_4='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app/components'
+let g:netrw_dirhist_3='/home/di3/Proyectos/Portfolio-Argentina-Programa/0-Proyecto-Argentina-Programa/task-list/src/app'
